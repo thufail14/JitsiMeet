@@ -1,0 +1,262 @@
+/* responsive */
+@media (max-width:1199px){
+    .meeting .welcome .header .header-text{
+          -webkit-box-flex: 50%;
+          -webkit-flex: 50% 0 1;
+              -ms-flex: 50% 0 1;
+                  flex: 50% 0 1;
+    }
+  }
+  
+  @media (max-width:1024px){
+    .meeting .welcome .header .header-text{
+          -webkit-box-flex: 55%;
+          -webkit-flex: 55% 0 1;
+              -ms-flex: 55% 0 1;
+                  flex: 55% 0 1;
+    }
+  }
+  @media (max-width:998px){
+    .meeting .header-logo .logo-lg{
+        display: block;
+    }
+    .meeting .meetings-list .item{
+        min-height: 70px;
+    }
+    .meeting .header.login{
+    padding: 15px;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    margin-top: 20px;
+    }
+    .meeting .login-status {
+    right: 40px;
+}
+.meeting .welcome .welcome-page-settings{
+    top: -42px;
+    right: 0!important;
+}
+.meeting .login-logo img {
+    display: none !important;
+}
+.meeting .welcome .header .header-text{
+    display: block;
+    height: auto;
+    width: 100%;
+    background-color: #0e7df7 !important;
+    margin-top: 0px;
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+        -ms-flex: none;
+            flex: none;
+}
+.meeting .login .right-section,.login-container{
+    display: block!important;
+    height:auto!important;
+}
+.meeting  .login-container{
+margin: -20px;
+width: auto;
+background: rgba(255, 255, 255, 0.9);
+padding: 30px 20px;
+z-index: 1;
+-webkit-border-radius: 5px;
+        border-radius: 5px;
+-webkit-box-shadow: 0px 2px 15px rgba(100, 105, 141, 0.5);
+        box-shadow: 0px 2px 15px rgba(100, 105, 141, 0.5);
+}
+.meeting .welcome .header{
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+}
+.meeting .welcome .left-section .login-logo {
+    width: 180px;
+    left: -20px;
+    margin:0;
+    padding: 0px;
+    max-width: 220px;
+    background: transparent;
+    top: -80px;
+
+}
+.meeting .welcome .header .header-text-title, .meeting .welcome .header .header-text-description{
+    margin: 0!important;
+    width:100%;
+}
+
+.meeting .login .right-section section{
+    display: none!important;
+}
+
+.meeting  .welcome .header #enter_room{
+    width: 100%;
+    max-width:100%;
+}
+.meeting .login .right-section{
+    margin :0 auto;
+    margin-top: 20px;
+    position: static !important;
+    height: auto!important;
+    max-width: 600px;
+    min-width: 242px;
+}
+.meeting .welcome .header .tab-container{
+    min-height: -webkit-calc(30vh - 10px);
+    min-height: calc(30vh - 10px);
+    max-width: 600px;
+    min-width: 242px;
+    margin :0 auto;
+    width: 100%;
+  }
+  .meeting .meetings-list .item .right-column,.meeting .meetings-list .item .left-column{
+    padding-left: 20px;
+    padding-top: 15px;
+    min-width: 80px;
+  }
+  .meeting .welcome .header .header-text-title{
+    font-size: 22px;
+}
+  }
+  
+  
+  @media only screen and (max-width: 767px){
+    .device-selection .device-selection-column.column-selectors{
+    margin-left: 0;
+    }
+    .meeting .welcome .header .header-text-title{
+        font-size: 20px;
+    }
+    .meeting .welcome .header .header-text-description{
+        font-size: 14px;
+    }
+    .meeting .welcome .header #enter_room{
+        padding:10px;
+    }
+     .device-selection .device-selection-column.column-video,.device-selection .device-selection-column.column-selectors{
+      width:100%;
+    }
+    .settings-pane .profile-edit{
+      -webkit-flex-wrap:wrap;
+          -ms-flex-wrap:wrap;
+              flex-wrap:wrap;
+    }
+     .settings-pane .language-settings{
+      min-width:100%;
+    }
+     .settings-pane .profile-edit-field,.welcome .header .tab-container{
+      min-width:100%;
+    }
+    .meetings-list .item .right-column .title{
+        font-size: 14px;
+    }
+    .video-preview{
+        overflow: hidden;
+    }
+  }
+  @media only screen and (max-width: 567px){
+    .horizontal-filmstrip .filmstrip #filmstripRemoteVideos #filmstripRemoteVideosContainer > span {
+        margin-right: 15px;
+    }
+    .meeting .header-logo .logo-lg{
+    display: none;
+    }
+    .meeting .header-logo .logo-sm{
+        display: block;
+        width: 80px;
+        position: relative;
+        top: -11px;
+    }
+    .atlaskit-portal-container .cjMOOK {
+        top: 50%;
+        left: 15px!important;
+        bottom:unset !important;
+    }
+    #sideToolbarContainer,#chatconversation{
+        width: 290px;
+    }
+    .smileys-panel{
+        width: 285px;
+    }
+  }
+  @media only screen and (max-width: 480px){
+    .videocontainer__toolbar{
+        top:22px;
+        -webkit-transform: none;
+        -moz-transform: none;
+        -ms-transform: none;
+        -o-transform: none;
+        transform: none;
+}
+    .meeting .welcome .left-section .login-logo{
+        display:none;
+    }
+    .meeting .welcome .header .tab-container{
+        min-height: 200px;
+    }
+   .meeting  .welcome .welcome-page-settings{
+        top:-48px;
+    }
+    .meeting .login-status{
+        top:-64px;
+    }
+    .meeting .welcome .header .header-text-title {
+        font-size: 18px;
+    }
+    .meeting .welcome .header #enter_room .enter-room-input-container .enter-room-title{
+        font-size: 16px;
+    }
+
+  }
+  @media only screen and (max-width: 374px){
+    .meeting .header-logo .logo-sm{
+        display: none;
+    }
+  }
+  @media only screen and (min-width: 320px) and (max-width: 480px){
+
+    .atlaskit-portal-container .kRmIj > div {
+        width: 320px;
+        padding: 0 5px;
+        -webkit-box-sizing: border-box;
+                box-sizing: border-box;
+    }
+    .atlaskit-portal-container .gdeMJt{
+        padding: 16px 8px;
+    }
+    .atlaskit-portal-container .cjMOOK {
+        left: 0px!important;
+    }
+    .show-connection-indicator .sc-bZQynM > div {
+        -webkit-transform: translate3d(20px, 90px, 0px) !important;
+                transform: translate3d(20px, 90px, 0px) !important;
+    }
+    .video-preview .sc-bZQynM.etGiXB >div {
+        -webkit-transform: translate3d(15px, -155px, 0px) !important;
+                transform: translate3d(15px, -155px, 0px) !important;
+    }
+
+    .audio-preview-content{
+        width: 300px!important;
+    }
+    .audio-preview .sc-bZQynM.etGiXB > div {
+        -webkit-transform: translate3d(10px, -300px, 0px) !important;
+                transform: translate3d(10px, -300px, 0px) !important;
+    }
+  }
+ 
+ 

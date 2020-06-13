@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4 15" width="4" height="15">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<path id="Op_component_1" class="shp0" d="M2 3.42C1.22 3.42 0.58 2.78 0.58 2C0.58 1.22 1.22 0.58 2 0.58C2.78 0.58 3.42 1.22 3.42 2C3.42 2.78 2.78 3.42 2 3.42Z" />
+	<path id="Rectangle_4087" class="shp0" d="M2 5L2 5C2.55 5 3 5.56 3 6.25L3 13.75C3 14.44 2.55 15 2 15L2 15C1.45 15 1 14.44 1 13.75L1 6.25C1 5.56 1.45 5 2 5Z" />
+</svg>

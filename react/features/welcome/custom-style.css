@@ -1,0 +1,77 @@
+
+
+
+.device-selection .device-selectors .device-selector-trigger{
+  background:#eef5ff;
+    border-color:#eef5ff!important;
+    color:#343a40;
+  }
+  .eoRGoR{
+    color:#fff;
+    background-color: #161D2C;
+  }
+  .oQiLZ{ 
+     color:#fff;
+  }
+  .oQiLZ:hover { 
+    color:#fff;
+  }
+  .jsYMHu,.jsYMHu:hover,.jsYMHu,.jsYMHu:hover,.DEUJGG,.iywFgu,.gbyMcp  {
+    background:#eef5ff;
+    border-color:#eef5ff!important;
+    color:#343a40;
+  } 
+  .device-selection .device-selection-video-container .video-input-preview.video-preview-has-error,.device-selection .audio-input-preview{
+    background: #4c5b69;
+  }
+  .hWFSra{
+    color:#5C5A5A;
+  }
+  button.iuZaWk ,.kkIlFY,.dhygeq,.ihpcrA {
+      color: #FFF!important;
+      background-color: #0074e0!important;
+      -webkit-border-radius: 4px!important;
+              border-radius: 4px!important;
+  }
+  .settings-dialog .ybfvp{
+    background: #8D8E91;
+    height:3px;
+  }
+  .jXQlZM.jXQlZM,.iCiHph,.cksvax {
+   background-color: #fff!important;
+     color:#343a40;
+  }
+  .modal-dialog-form .cksvax[data-role=droplistContent]{
+        border: 1px solid #d8d8d8
+  }
+  .settings-dialog .iqNwPx,.settings-dialog .iqNwPx:hover{
+    color:#fff;
+  }
+
+  .settings-dialog .bHNyBH{
+    background-color: #fff;
+    height:3px;
+    -webkit-box-shadow: 0px 1px 6px #FFFFFF;
+            box-shadow: 0px 1px 6px #FFFFFF;
+      }
+      .settings-dialog  .device-selection .device-selectors .device-selector-label , .settings-dialog .itZGfB{
+      
+        color: #C7C7C7;
+    }
+    .settings-dialog  .gUwyVH{
+      color: #161D2C !important;
+      background:#FFFFFF;
+    }
+    .settings-pane .mock-atlaskit-label {
+      color: #C7C7C7;
+    }
+    .jXQlZM.jXQlZM:hover{
+      color: inherit;
+    }
+    button#modal-dialog-cancel-button {
+      background: #fff ;
+      color: #161D2C !important;
+  }
+  button#modal-dialog-cancel-button:hover{
+    background: #fff !important;
+    }

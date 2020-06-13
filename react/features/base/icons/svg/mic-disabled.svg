@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.721" height="24.572" viewBox="0 0 16.721 24.572">
+  <g id="Mic_muted" data-name="Mic muted" transform="translate(-372.452 -801.428)">
+    <path id="Forma_1" data-name="Forma 1" d="M81.615,538.711v3.072h4.308a.608.608,0,1,1,0,1.217H76.077a.608.608,0,1,1,0-1.217h4.308v-3.072A7.96,7.96,0,0,1,73,530.833a.615.615,0,0,1,1.231,0,6.77,6.77,0,0,0,13.538,0,.615.615,0,0,1,1.231,0A7.938,7.938,0,0,1,81.615,538.711Zm4-15.482v7.6a4.616,4.616,0,0,1-9.231,0v-7.6a4.616,4.616,0,0,1,9.231,0Zm-1.231,0a3.385,3.385,0,0,0-6.769,0v7.6a3.385,3.385,0,0,0,6.769,0Z" transform="translate(300.039 283)" fill="#333"/>
+    <line id="Line_1" data-name="Line 1" y1="20.11" x2="14.625" transform="translate(373.5 802.476)" fill="none" stroke="#333" stroke-linecap="round" stroke-width="1.5"/>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14.75" height="14.75" viewBox="0 0 14.75 14.75">
+  <g id="Tiles" transform="translate(-21.579 -140.183)">
+    <g id="Rectangle_22" data-name="Rectangle 22" transform="translate(21.579 140.183)" fill="none" stroke="#000" stroke-width="1">
+      <rect width="6.322" height="6.322" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="5.322" height="5.322" rx="0.5" fill="none"/>
+    </g>
+    <g id="Rectangle_25" data-name="Rectangle 25" transform="translate(21.579 148.612)" fill="none" stroke="#000" stroke-width="1">
+      <rect width="6.322" height="6.322" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="5.322" height="5.322" rx="0.5" fill="none"/>
+    </g>
+    <g id="Rectangle_23" data-name="Rectangle 23" transform="translate(30.008 140.183)" fill="none" stroke="#000" stroke-width="1">
+      <rect width="6.322" height="6.322" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="5.322" height="5.322" rx="0.5" fill="none"/>
+    </g>
+    <g id="Rectangle_24" data-name="Rectangle 24" transform="translate(30.008 148.612)" fill="none" stroke="#000" stroke-width="1">
+      <rect width="6.322" height="6.322" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="5.322" height="5.322" rx="0.5" fill="none"/>
+    </g>
+  </g>
+</svg>
